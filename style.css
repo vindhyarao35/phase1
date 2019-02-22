@@ -1,23 +1,22 @@
 body{
-	background:grey;
+	background:pink;
 }
 .main{
-	background: aqua;
-	display: flex;
-	justify-content:space-around; 
+	background:aqua;
+	display:flex;
+	justify-content:space-around;
 	margin:10%;
-	border-radius:5%;
+
 }
 .sub{
 	background: bisque;
-	margin:5%;
-	border-radius: 5%;
-	text-align: center;
-	box-shadow: 5px 5px 5px;
+margin: 5%;
+border-radius:5%;
+text-align:center; 
 }
 img{
-	margin: 4%;
-	border-radius: 5%;
-	width: 70%;
-	height: 30%;
+	margin: 4%
+	border-radius:5%;
+	width:70%;
+	height:30%;
 }
