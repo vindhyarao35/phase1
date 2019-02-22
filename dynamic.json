@@ -1,0 +1,45 @@
+{
+	"profile":{
+		"img":"1234.jpg",
+		"name":"Gayathri",
+		"roll":"1234",
+		"place":"guntur",
+		"email":"nalluri1409@gmail.com"
+	},
+	"carrier":{
+		"info":"i want to seek a job in reputed company to explore my taught for the benifits of the company"
+	},
+	"educational":[
+		{
+"degree":"b.tech",
+"institute":"abc",
+"per":"89%",
+"yop":"2018"
+	},
+	{
+"degree":"intermediate",
+"institute":"ab",
+"per":"88%",
+"yop":"2014"
+	},{
+"degree":"scc",
+"institute":"a",
+"per":"85%",
+"yop":"2012"
+	}
+
+],
+	"language":[
+		{
+			"info":"telugu"
+		},
+		{
+			"info":"english"
+		},
+		{
+			"info":"hindi"
+		}
+		
+	]
+
+}
